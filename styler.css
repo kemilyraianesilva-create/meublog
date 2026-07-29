@@ -1,7 +1,14 @@
-:root{
-    
+
+@import url(<style>
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Xanh+Mono:ital@0;1&display=swap');
+</style>  )
+:root
 --blush-em-po: #ffa69eff;
 --casca-de-ovo: #faf3ddff;
 --azul-gelo: #b8f2e6ff;
 --azul-claro: #aed9e0ff;
+--texto:Xanh Mono, monospace
+--titulo:Libertinus Serif, serif
 }
+ backgroud-color:VAR(--blush-em-po);
+ font-family:(--texto);
