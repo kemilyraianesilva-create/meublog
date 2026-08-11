@@ -1,0 +1,20 @@
+:root{
+    
+--rosa: #ffa69eff;
+--azul: rgb(8, 42, 194);
+--azul-gelo: #b8f2e6ff;
+--amarelo: #aed9e0ff;
+--texto: "Share Tech", sans-serif;
+--titulo: "Archivo Blac", sans-serif;
+}
+
+body{
+background-color: var(--rosa);
+font-family: var(--texto);
+}
+header{
+    background-color: var(--azul-gelo);
+text-align:center;
+padding: 20px;
+color:var(--azul-gelo)
+}
